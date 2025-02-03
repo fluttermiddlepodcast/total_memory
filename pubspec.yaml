@@ -1,5 +1,5 @@
 name: total_memory
-description: A command-line application to get the total memory of the system.
+description: Application to get the total memory of the system.
 version: 1.0.0
 repository: https://github.com/fluttermiddlepodcast/total_memory
 
