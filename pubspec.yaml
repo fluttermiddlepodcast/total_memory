@@ -1,0 +1,13 @@
+name: total_memory
+description: A command-line application to get the total memory of the system.
+version: 1.0.0
+repository: https://github.com/fluttermiddlepodcast/total_memory
+
+environment:
+  sdk: ^3.1.1
+
+dependencies:
+
+dev_dependencies:
+  lints: ^2.0.0
+  test: ^1.21.0
